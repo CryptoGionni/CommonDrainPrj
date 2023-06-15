@@ -1,0 +1,129 @@
+runfile('C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina/tesinaE1.py', wdir='C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina')
+R1: 800000
+R2: 800000
+Vdd: 15
+----
+Vg: 7.5
+Rs: 1666.666675
+Ai: 260.8695635727789
+Av: 0.6481231393112519
+
+runfile('C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina/tesinaE1.py', wdir='C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina')
+R1: 800000
+R2: 900000
+Vdd: 15
+----
+Vg: 7.941176470588236
+Rs: 1960.7843235294124
+Ai: 281.7268797127205
+Av: 0.6612850473063513
+
+runfile('C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina/tesinaE1.py', wdir='C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina')
+R1: 800000
+R2: 1000000
+Vdd: 15
+----
+Vg: 8.333333333333334
+Rs: 2222.2222333333334
+Ai: 299.6254663636746
+Av: 0.6703863759535293
+
+runfile('C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina/tesinaE1.py', wdir='C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina')
+R1: 200000
+R2: 1000000
+Vdd: 15
+----
+Vg: 12.5
+Rs: 5000.000024999999
+Ai: 119.0476183956916
+Av: 0.7037297639154184
+
+runfile('C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina/tesinaE1.py', wdir='C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina')
+R1: 100000
+R2: 1000000
+Vdd: 15
+----
+Vg: 13.636363636363638
+Rs: 5757.575786363637
+Ai: 65.34449122008479
+Av: 0.699551730823292
+
+runfile('C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina/tesinaE1.py', wdir='C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina')
+R1: 200000
+R2: 10000000
+Vdd: 15
+----
+Vg: 14.705882352941176
+Rs: 6470.588267647058
+Ai: 141.58836325020076
+Av: 0.7130097779077008
+
+runfile('C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina/tesinaE1.py', wdir='C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina')
+R1: 200000
+R2: 100000000
+Vdd: 15
+----
+Vg: 14.970059880239521
+Rs: 6646.70662005988
+Ai: 144.27407317524285
+Av: 0.7138718615421512
+
+runfile('C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina/tesinaE1.py', wdir='C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina')
+R1: 200000
+R2: 200000000
+Vdd: 15
+----
+Vg: 14.985014985014985
+Rs: 6656.67668996004
+Ai: 144.4260443543601
+Av: 0.7139194350623547
+
+runfile('C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina/tesinaE1.py', wdir='C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina')
+R1: 200000
+R2: 200000000
+Vdd: 30
+----
+Vg: 29.97002997002997
+Rs: 16646.68672992008
+Ai: 147.63299621005982
+Av: 0.7297718754399075
+
+runfile('C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina/tesinaE1.py', wdir='C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina')
+R1: 200000
+R2: 200000000
+Vdd: 45
+----
+Vg: 44.955044955044954
+Rs: 26636.696769880116
+Ai: 148.4568006299964
+Av: 0.7338440633109535
+
+runfile('C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina/tesinaE1.py', wdir='C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina')
+R1: 2000000
+R2: 200000000
+Vdd: 45
+----
+Vg: 44.554455445544555
+Rs: 26369.637095544553
+Ai: 1471.2006413808074
+Av: 0.7420195242479448
+
+runfile('C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina/tesinaE1.py', wdir='C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina')
+R1: 20000000
+R2: 200000000
+Vdd: 45
+----
+Vg: 40.909090909090914
+Rs: 23939.39405909091
+Ai: 13495.430275916397
+Av: 0.7421466200151496
+
+runfile('C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina/tesinaE1.py', wdir='C:/Users/gio/OneDrive/Documenti/CORSI_UNI/anno_4.2/E1/method/tesina')
+R1: 200000000
+R2: 200000000
+Vdd: 45
+----
+Vg: 22.5
+Rs: 11666.666725
+Ai: 73426.57304403638
+Av: 0.7342473742560074
